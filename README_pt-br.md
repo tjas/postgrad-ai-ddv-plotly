@@ -1,12 +1,12 @@
 # postgrad-ai-ddv-plotly
 
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg?label=Status)](./README.md)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjas%2Fpostgrad-ai-ddv-plotly&count_bg=%2379C83D&title_bg=%23555555&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Licence](https://img.shields.io/github/license/tjas/postgrad-ai-ddv-plotly?color=orange&label=Licence)](https://github.com/tjas/postgrad-ai-ddv-plotly/blob/master/LICENCE)
+[![Acessos](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjas%2Fpostgrad-ai-ddv-plotly&count_bg=%2379C83D&title_bg=%23555555&title=Acessos&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Licença](https://img.shields.io/github/license/tjas/postgrad-ai-ddv-plotly?color=orange&label=Licença)](https://github.com/tjas/postgrad-ai-ddv-plotly/blob/master/LICENCE)
 [![Commits](https://img.shields.io/github/commit-activity/t/tjas/postgrad-ai-ddv-plotly?label=Commits)](https://github.com/tjas/postgrad-ai-ddv-plotly/graphs/commit-activity)
-![Last commit](https://img.shields.io/github/last-commit/tjas/postgrad-ai-ddv-plotly?color=blue&label=Last%20commit)
-![Repo size](https://img.shields.io/github/repo-size/tjas/postgrad-ai-ddv-plotly?color=888888&label=Repo%20size)
-![Code size](https://img.shields.io/github/languages/code-size/tjas/postgrad-ai-ddv-plotly?color=888888&label=Code%20size)
+![Último commit](https://img.shields.io/github/last-commit/tjas/postgrad-ai-ddv-plotly?color=blue&label=Último%20commit)
+![Tamanho do repositório](https://img.shields.io/github/repo-size/tjas/postgrad-ai-ddv-plotly?color=888888&label=Tam.%20repositório)
+![Tamanho do código](https://img.shields.io/github/languages/code-size/tjas/postgrad-ai-ddv-plotly?color=888888&label=Tam.%20código)
 [![Stars](https://img.shields.io/github/stars/tjas/postgrad-ai-ddv-plotly?color=blue&label=Stars)](https://github.com/tjas/postgrad-ai-ddv-plotly/stargazers)
 [![Watchers](https://img.shields.io/github/watchers/tjas/postgrad-ai-ddv-plotly?color=blue&label=Watchers)](https://github.com/tjas/postgrad-ai-ddv-plotly/watchers)
 [![Forks](https://img.shields.io/github/forks/tjas/postgrad-ai-ddv-plotly?color=blue&label=Forks)](https://github.com/tjas/postgrad-ai-ddv-plotly/forks)
@@ -14,11 +14,11 @@
 [![Pandas](https://img.shields.io/badge/django-vX.X.X-green?label=Djando)](https://www.djangoproject.com/)
 [![Plotly](https://img.shields.io/badge/postgresql-vX.X.X-blue?label=PostgreSQL)](https://www.postgresql.org/) -->
 
-> ⭐ Mark the project with a star. 👀 Watch the project for receive news.
+> ⭐ Marque o projeto com uma estrela. 👀 Acompanhe o projeto para receber novidades.
 >
-> 🇧🇷 Acesse esta página em [Português do Brasil](./README_pt-br.md).
+> 🇺🇸 Access this page in [US English](./README.md).
 
-Artificial Intelligence postgraduation's *Data Discovery and Data Visualization* discipline exercise using Python, Pandas and Plotly Express in a Jupyter Notebook to analyze the salaries of Federal District government public servants, obtained from the [Federal District Government Transparency Portal](http://www.transparencia.df.gov.br/#/downloads). The postgraduate course was held at [Centro de Educação Superior de Brasília (IESB)](https://www.iesb.br/) and the referred discipline took place in July 2020.
+Exercício da disciplina *Data Discovery and Data Visualization* da pós-graduação em Inteligência Artificial utilizando Python, Pandas e Plotly Express em um Jupyter Notebook para analisar os salários de servidores públicos do governo do Distrito Federal, obtidos do [Portal da Transparência do Governo do Distrito Federal](http://www.transparencia.df.gov.br/#/downloads). O curso de pós-graduação foi realizado no [Centro de Educação Superior de Brasília (IESB)](https://www.iesb.br/) e a referida disciplina ocorreu em julho de 2020
 
 ## Contact
 
