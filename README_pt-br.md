@@ -20,12 +20,12 @@
 
 Exercício da disciplina *Data Discovery and Data Visualization* da pós-graduação em Inteligência Artificial utilizando Python, Pandas e Plotly Express em um Jupyter Notebook para analisar os salários de servidores públicos do governo do Distrito Federal, obtidos do [Portal da Transparência do Governo do Distrito Federal](http://www.transparencia.df.gov.br/#/downloads). O curso de pós-graduação foi realizado no [Centro de Educação Superior de Brasília (IESB)](https://www.iesb.br/) e a referida disciplina ocorreu em julho de 2020
 
-## Contact
+## Contato
 
-**Thiago Jorge Almeida dos Santos**, project author and maintainer.
+**Thiago Jorge Almeida dos Santos**, autor e mantenedor do projeto.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logoColor=white&link=https://www.linkedin.com/in/thiago-tjas)](https://www.linkedin.com/in/thiago-tjas) [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logoColor=white&link=https://www.youtube.com/@thiago_tjas)](https://www.youtube.com/@thiago_tjas) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logoColor=white&link=https://www.instagram.com/thiago.tjas/)](https://www.instagram.com/thiago.tjas/) [![Website](https://img.shields.io/badge/-Website-888888?style=flat-square&logoColor=white&link=http://thiago-tjas.com/)](http://thiago-tjas.com/) [![GitHub](https://img.shields.io/badge/-GitHub-555555?style=flat-square&logoColor=white&link=https://github.com/tjas)](https://github.com/tjas)
 
-## Licence
+## Licença
 
-* Code distributed under [MIT License](https://github.com/tjas/postgrad-ai-ddv-plotly/blob/master/LICENCE).
+* Código distribuído sob a [Licença MIT](https://github.com/tjas/postgrad-ai-ddv-plotly/blob/master/LICENCE).
