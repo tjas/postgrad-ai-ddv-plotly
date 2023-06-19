@@ -1,6 +1,6 @@
 # postgrad-ai-ddv-plotly
 
-[![Status](https://img.shields.io/badge/status-active-brightgreen.svg?label=Status)](./README.md)
+[![Status](https://img.shields.io/badge/status-arquivado-brightgreen.svg?label=Status)](./README.md)
 [![Acessos](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjas%2Fpostgrad-ai-ddv-plotly&count_bg=%2379C83D&title_bg=%23555555&title=Acessos&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Licença](https://img.shields.io/github/license/tjas/postgrad-ai-ddv-plotly?color=orange&label=Licença)](https://github.com/tjas/postgrad-ai-ddv-plotly/blob/master/LICENCE)
 [![Commits](https://img.shields.io/github/commit-activity/t/tjas/postgrad-ai-ddv-plotly?label=Commits)](https://github.com/tjas/postgrad-ai-ddv-plotly/graphs/commit-activity)
