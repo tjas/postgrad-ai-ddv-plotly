@@ -18,7 +18,7 @@
 >
 > 🇺🇸 Access this page in [US English](./README.md).
 
-Exercício da disciplina *Data Discovery and Data Visualization* da pós-graduação em Inteligência Artificial utilizando Python, Pandas e Plotly Express em um Jupyter Notebook para analisar os salários de servidores públicos do governo do Distrito Federal, obtidos do [Portal da Transparência do Governo do Distrito Federal](http://www.transparencia.df.gov.br/#/downloads). O curso de pós-graduação foi realizado no [Centro de Educação Superior de Brasília (IESB)](https://www.iesb.br/) e a referida disciplina ocorreu em julho de 2020
+Exercício da disciplina *Data Discovery and Data Visualization* da pós-graduação em Inteligência Artificial utilizando Python, Pandas e Plotly Express em um Jupyter Notebook para analisar os salários de servidores públicos do governo do Distrito Federal, obtidos do [Portal da Transparência do Governo do Distrito Federal](http://www.transparencia.df.gov.br/#/downloads). O curso de pós-graduação foi realizado no [Centro de Educação Superior de Brasília (IESB)](https://www.iesb.br/) e a referida disciplina ocorreu em julho de 2020.
 
 ## Contato
 
